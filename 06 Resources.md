@@ -5,6 +5,8 @@
 
 - [Ridley Scott on storyboarding](https://youtu.be/ljjlXSGdSYs)
 
+**TK**
+
 ### Tools 
 
 - Pen & paper. As minimal as can be. Counterintuitive fact: when it comes to ideas, drafting on paper is also way faster. Fun fact: drawing software  all stress how they emulate the feel of pen and paper. Well, then, you could also simply use pen and paper.
