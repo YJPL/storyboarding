@@ -32,10 +32,4 @@ It's economical and fun because you get to create, revise or re-create your scre
 ### Verbal versus Visual
 A film often starts with an idea, a synopsis that then translates into a screenplay. Drawing is complementary to writing. Both help us to think and play with ideas. The end goal is a film, a collective effort, so both can be complementary tools. One needs not to supersede the other.
 
-There is also a strong relation between film and painting, the atmosphere, the staging, the lighting. All this can start with sketches.
-
-
-
-
-
-
+There is also a strong relation between film and painting, the atmosphere, the composition, the staging, the lighting. All this can start with sketches.
