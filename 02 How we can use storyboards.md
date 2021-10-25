@@ -7,6 +7,7 @@ Storyboarding is one of the easiest and natural techniques to visualize a film b
 There are many use cases for storyboards in film:
 
 - [ ] Planning / Budget tool
+- [ ] Timesaver!
 - [ ] Visual screenplay
 	- [ ] A blueprint for pre-production 
 	- [ ] Prepare your sets 
