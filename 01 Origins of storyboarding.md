@@ -10,19 +10,17 @@ Sequential storytelling began to emerge in the shape of caricatures, cartoons, a
 
 The creation of the storyboard as a technique is sometimes attributed to **Georges Méliès**, illusionist, father of special effects, and one of the first film directors because he used sequential drawings to prepare his films. 
 
-**Eisenstein** used sequential drawings to prepare his movies.
-
 In the early days of the Disney studio, animator **Webb Smith** had the idea of drawing scenes on separate sheets of paper and pinning them up on a bulletin board to tell a story in sequence, thus creating the first storyboard as we know it today.
  
 Disney popularized the technique and soon had story artists working alongside animators. The studios evolved with entire story departments in charge of developing the stories ahead of animating them.
 
 > In our studios, we don't write our stories. We draw them.—WALT DISNEY
 
-
 The idea spread to other animation studios as well as live-action film productions.
 
-
 During the 1940s, storyboarding became popular in live-action film productions and became a common medium to pre-visualize films.
+
+**Eisenstein** used sequential drawings to prepare his movies very early on as well.
 
 **Alfred Hitchcock** used storyboards to prepare his sets but also as a marketing tool.
 
