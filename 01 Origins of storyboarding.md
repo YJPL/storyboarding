@@ -6,7 +6,7 @@ Let's start with where it comes from, how you can use it in your project(s), the
 
 The origins of storyboarding, like many great, simple inventions, are not clear-cut.
 
-Sequential storytelling began to emerge in the form of caricatures, cartoons, ads, and comics at the start of the twenty-first century.
+Sequential storytelling began to emerge in the shape of caricatures, cartoons, ads, and comics at the start of the twenty-first century.
 
 The creation of the storyboard as a technique is sometimes attributed to **Georges Méliès**, illusionist, father of special effects, and one of the first film directors because he used sequential drawings to prepare his films. 
 
@@ -34,7 +34,7 @@ During the 1940s, storyboarding became popular in live-action film productions a
 
 **Hayao Miyazaki** uses storyboarding instead of writing a screenplay.
 
-**Wes Anderson** uses storyboards for each of his films.
+**Wes Anderson** engages with storyboards for each of his films as early as twenty pages into writing his script.
 
 **Bong Joon-ho** storyboarded his entire *Parasite* movie (the storyboard is available as a graphic novel).
 
