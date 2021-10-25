@@ -10,3 +10,5 @@ Notes for UGent DO-tracks Media-Innovatieweek 2021[^1]
 7. [Bibliography](https://github.com/YJPL/storyboarding/blob/main/07%20Bibliography.md)
 
 [^1]:[https://www.ugent.be/ps/communicatiewetenschappen/nl/miw/do-tracks-media-innovatieweek-2021](https://www.ugent.be/ps/communicatiewetenschappen/nl/miw/do-tracks-media-innovatieweek-2021)
+
+You can find the slides here: [https://github.com/YJPL/storyboarding/blob/main/UGent%20Storyboard%20workshop_LR_20211025.pdf](https://github.com/YJPL/storyboarding/blob/main/UGent%20Storyboard%20workshop_LR_20211025.pdf).
