@@ -18,4 +18,6 @@ Augmented Reality/Virtual Reality
 
 - **Virtual Camera Rig** lets you visualise animations, compose your shots in real time and record movements.
 
+- **Text-to-Image** diffusion models for quick previsualisation and ideas generation.
+
 **TK**
